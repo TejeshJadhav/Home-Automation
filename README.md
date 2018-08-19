@@ -29,7 +29,7 @@ Select the Feed Name and Value to be sent ie. 0 for off 1 for on (Step-5)
 Review and Finish the Applet. (Step-6)
 
 -
-#The Above Step-1 to Step-6 are to be Repeated Twice for Every Different Device To be Controlled.
+The Above Step-1 to Step-6 are to be Repeated Twice for Every Different Device To be Controlled.
 -
 After This Setup Edit the Sketch According to Your Need.
 Fill in the necessary places as Commented. 
