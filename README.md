@@ -2,13 +2,13 @@
 IOT Based Home Automation With Google Assistant/ Cortana/ Alexa
 
 https://learn.adafruit.com/adafruit-io-basics-feeds/creating-a-feed
+-
 
 
-
-#After Creation of Feed Follow this Steps:
-
+After Creation of Feed Follow this Steps:
+-
 #IFTTT SETUP
-
+-
 Login With ifttt.com (If This Then That)
 Signup/ Signin to adafruit.io
 Once you have signed in, visit ifttt.com/adafruit and click the Connect button to connect your IFTTT account to Adafruit IO.
@@ -28,7 +28,7 @@ Select the Feed Name and Value to be sent ie. 0 for off 1 for on (Step-5)
 Review and Finish the Applet. (Step-6)
 
 #The Above Step-1 to Step-6 are to be Repeated Twice for Every Different Device To be Controlled.
-
+-
 #After This Setup Edit the Sketch According to Your Need.
 Fill in the necessary places as Commented. 
 Upload The Sketch On ESP8266 or any WiFi Development Device.
