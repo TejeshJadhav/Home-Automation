@@ -2,7 +2,7 @@
 IOT Based Home Automation With Google Assistant/ Cortana/ Alexa
 
 https://learn.adafruit.com/adafruit-io-basics-feeds/creating-a-feed
--
+
 
 
 After Creation of Feed Follow this Steps:
